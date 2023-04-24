@@ -1,0 +1,27 @@
+{
+    "name":"Kastov-545",
+    "class": "ar",
+    "type": "primary",
+    "barrelAttatchments" :[
+        "KAS-7 406mm",
+        "Kastovia 406",
+        "IG-K30 406mm",
+        "342mm Sakin KL"
+    ],
+    "muzzleAttatchments" :[
+        "Corvus Slash Gen 2",
+        "Cronen MAW-86",
+        "Dark KX30",
+        "VLK Koloss Flash Hider",
+        "RF Crown 50",
+        "Komodo Heavy",
+        "XTen Ported 290",
+        "FJX Fulcrum Pro",
+        "FTAC Castle Comp",
+        "XTEN Havoc 9",
+        "Sakin Tread-40",
+        "C400 Door Knocker",
+        "JCZ-390 Muzzle Device"
+    ]
+
+}
