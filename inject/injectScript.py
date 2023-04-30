@@ -1,5 +1,4 @@
 import os, sys, time, json
-import "./weaponObjectTemplate.json"
 
 #this script is so you can inject sample data into a database instance for testing
 def inject ():
